@@ -23,6 +23,10 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 
+* [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
+
 ## General Opportunities
 
 [Back to Top](#contents)
+
+* [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.

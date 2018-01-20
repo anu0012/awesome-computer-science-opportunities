@@ -3,9 +3,20 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 ## Contents
 
+ - [Learning Platform](#learning-platform)
+   - [Competitive Programming](#competitive-programming)
+   - [Web Development](#web-development)
+   - [Mobile Development](#mobile-development)
+   - [Data Science](#data-science)
  - [Fellowships](#fellowships)
  - [Programming Events](#programming-events)
  - [General Opportunities](#general-opportunities)
+ 
+## Learning Platform
+
+[Back to Top](#contents)
+
+
  
 ## Fellowships
 

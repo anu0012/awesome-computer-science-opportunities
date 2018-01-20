@@ -16,7 +16,21 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 [Back to Top](#contents)
 
-
+ ### Competitive Programming
+ 
+ * [HackerRank](http://hackerrank.com)
+ 
+ * [HackerEarth](http://hackerearth.com)
+ 
+ * [CodeChef](http://codechef.com)
+ 
+ * [TopCoder](http://topcoder.com)
+ 
+ * [CodeForces](http://codeforces.com)
+ 
+ * [ProjectEuler](http://projecteuler.net)
+ 
+ * [Spoj](http://spoj.com)
  
 ## Fellowships
 

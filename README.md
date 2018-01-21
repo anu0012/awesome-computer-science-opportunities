@@ -34,9 +34,17 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Thimble](https://thimble.mozilla.org/en-US/)
  * [NodeSchool](https://nodeschool.io)
  
+ ### Mobile Development
+ 
+ * [Udacity Android Nanodegree](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) - Students can also apply for [scholarship](https://in.udacity.com/google-india-scholarships) given by Google.
+ 
  ### DevOps
  
  * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html)
+ 
+ ### Data Science
+ 
+ * [Kaggle](http://kaggle.com)
  
 ## MOOCs
 
@@ -46,10 +54,11 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Coursera](http://coursera.org)
 * [Udemy](http://udemy.com)
  
-## Fellowships
+## Fellowships/Scholarships
 
 [Back to Top](#contents)
 
+* [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships)
 * [Thiel Fellowship for young innovators](http://thielfellowship.org)
 
 ## Programming Events

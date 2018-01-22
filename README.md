@@ -51,6 +51,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Kaggle](http://kaggle.com)
  * [DataQuest](http://dataquest.io)
  * [DataCamp](http://datacamp.com)
+ * [DrivenData](https://www.drivendata.org/)
  
 ## MOOCs
 

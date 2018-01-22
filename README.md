@@ -10,7 +10,7 @@ An awesome list of events and fellowship opportunities for computer science stud
    - [DevOps](#devops)
    - [Data Science](#data-science)
  - [MOOCs](#moocs)
- - [Fellowships](#fellowships)
+ - [Fellowships](#fellowshipsscholarships)
  - [Programming Events](#programming-events)
  - [General Opportunities](#general-opportunities)
  

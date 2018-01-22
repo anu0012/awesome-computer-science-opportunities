@@ -34,6 +34,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [FreeCodeCamp](http://freecodecamp.com)
  * [Thimble](https://thimble.mozilla.org/en-US/)
  * [NodeSchool](https://nodeschool.io)
+ * [The Odin Project](https://www.theodinproject.com/)
  
  ### Mobile Development
  

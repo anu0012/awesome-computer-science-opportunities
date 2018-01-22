@@ -28,6 +28,8 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [ProjectEuler](http://projecteuler.net)
  * [Spoj](http://spoj.com)
  * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
+ * [LeetCode](https://leetcode.com)
+ * [FireCode](https://www.firecode.io/)
  
  ### Web Development
  

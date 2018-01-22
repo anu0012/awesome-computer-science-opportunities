@@ -27,6 +27,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [CodeForces](http://codeforces.com)
  * [ProjectEuler](http://projecteuler.net)
  * [Spoj](http://spoj.com)
+ * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
  
  ### Web Development
  
@@ -45,6 +46,8 @@ An awesome list of events and fellowship opportunities for computer science stud
  ### Data Science
  
  * [Kaggle](http://kaggle.com)
+ * [DataQuest](http://dataquest.io)
+ * [DataCamp](http://datacamp.com)
  
 ## MOOCs
 

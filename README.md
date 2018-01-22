@@ -56,6 +56,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Udacity](http://udacity.com)
 * [Coursera](http://coursera.org)
 * [Udemy](http://udemy.com)
+* [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/)
  
 ## Fellowships/Scholarships
 

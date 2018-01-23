@@ -14,13 +14,13 @@ An awesome list of events and fellowship opportunities for computer science stud
  - [Fellowships](#fellowshipsscholarships)
  - [Programming Events](#programming-events)
  - [General Opportunities](#general-opportunities)
- 
+
 ## Learning Platform
 
 [Back to Top](#contents)
 
  ### Competitive Programming
- 
+
  * [HackerRank](http://hackerrank.com)
  * [HackerEarth](http://hackerearth.com)
  * [CodeChef](http://codechef.com)
@@ -31,39 +31,48 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
  * [LeetCode](https://leetcode.com)
  * [FireCode](https://www.firecode.io/)
- 
+
  ### Web Development
- 
+
  * [FreeCodeCamp](http://freecodecamp.com)
  * [Thimble](https://thimble.mozilla.org/en-US/)
  * [NodeSchool](https://nodeschool.io)
  * [The Odin Project](https://www.theodinproject.com/)
- 
+
  ### Mobile Development
- 
+
  * [Udacity Android Nanodegree](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) - Students can also apply for [scholarship](https://in.udacity.com/google-india-scholarships) given by Google.
- 
+
  ### DevOps
- 
+
  * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html)
- 
+
  ### Data Science
- 
+
  * [Kaggle](http://kaggle.com)
  * [DataQuest](http://dataquest.io)
  * [DataCamp](http://datacamp.com)
  * [DrivenData](https://www.drivendata.org/)
  * [Analytics Vidhya](http://analyticsvidhya.com)
- 
+
+ ### Artificial Intelligence
+
+ * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+ * [Sentdex](https://www.youtube.com/user/sentdex)
+ * [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+ * [Andrej Karpathy](http://karpathy.github.io/)
+ * [iamtrask](http://iamtrask.github.io/)  
+ * [colah's blog](http://colah.github.io/)
+
  ### Open Source
- 
+
  * [Up For Grabs](http://up-for-grabs.net/#/)
  * [24 Pull Requests](https://24pullrequests.com)
  * [OpenHatch](https://openhatch.org/search/)
  * [First Timers Only](http://www.firsttimersonly.com)
  * [Your First PR](http://yourfirstpr.github.io/)  
  * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
- 
+
 ## MOOCs
 
 [Back to Top](#contents)
@@ -74,7 +83,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [edX](https://www.edx.org)
 * [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
- 
+
 ## Fellowships/Scholarships
 
 [Back to Top](#contents)

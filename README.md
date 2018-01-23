@@ -62,7 +62,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [OpenHatch](https://openhatch.org/search/)
  * [First Timers Only](http://www.firsttimersonly.com)
  * [Your First PR](http://yourfirstpr.github.io/)  
- * [Awesome For Beginners](https://github.com/MunG)
+ * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
  
 ## MOOCs
 

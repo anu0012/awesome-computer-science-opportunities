@@ -9,6 +9,7 @@ An awesome list of events and fellowship opportunities for computer science stud
    - [Mobile Development](#mobile-development)
    - [DevOps](#devops)
    - [Data Science](#data-science)
+   - [Open Source](#open-source)
  - [MOOCs](#moocs)
  - [Fellowships](#fellowshipsscholarships)
  - [Programming Events](#programming-events)
@@ -53,6 +54,13 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [DataCamp](http://datacamp.com)
  * [DrivenData](https://www.drivendata.org/)
  * [Analytics Vidhya](http://analyticsvidhya.com)
+ 
+ ### Open Source
+ 
+ * [Up For Grabs](http://up-for-grabs.net/#/)
+ * [24 Pull Requests](https://24pullrequests.com)
+ * [OpenHatch](https://openhatch.org/search/)
+ * [First Timers Only](http://www.firsttimersonly.com)
  
 ## MOOCs
 

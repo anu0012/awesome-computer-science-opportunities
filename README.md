@@ -9,6 +9,7 @@ An awesome list of events and fellowship opportunities for computer science stud
    - [Mobile Development](#mobile-development)
    - [DevOps](#devops)
    - [Data Science](#data-science)
+   - [Artificial Intelligence](#artificial-intelligence)
    - [Open Source](#open-source)
  - [MOOCs](#moocs)
  - [Fellowships](#fellowshipsscholarships)

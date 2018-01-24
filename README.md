@@ -43,6 +43,9 @@ An awesome list of events and fellowship opportunities for computer science stud
  ### Mobile Development
 
  * [Udacity Android Nanodegree](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) - Students can also apply for [scholarship](https://in.udacity.com/google-india-scholarships) given by Google.
+ * [Android Developer Training](https://developer.android.com/training/index.html)
+ * [Vogella](http://www.vogella.com/tutorials/android.html)
+ * [Android Hive](https://www.androidhive.info)
 
  ### DevOps
 
@@ -84,6 +87,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [edX](https://www.edx.org)
 * [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
+* [The New Boston Tutorials](https://www.youtube.com/user/thenewboston)
 
 ## Fellowships/Scholarships
 

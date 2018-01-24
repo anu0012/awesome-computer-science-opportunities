@@ -87,7 +87,6 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [edX](https://www.edx.org)
 * [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
-* [The New Boston Tutorials](https://www.youtube.com/user/thenewboston)
 
 ## Fellowships/Scholarships
 

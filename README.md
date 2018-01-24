@@ -32,6 +32,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
  * [LeetCode](https://leetcode.com)
  * [FireCode](https://www.firecode.io/)
+ * [CodeWars](https://www.codewars.com/)
 
  ### Web Development
 
@@ -67,6 +68,9 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Andrej Karpathy](http://karpathy.github.io/)
  * [iamtrask](http://iamtrask.github.io/)  
  * [colah's blog](http://colah.github.io/)
+ 
+ ### Computer Science
+ * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format
 
  ### Open Source
 
@@ -106,6 +110,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Google Kickstart](https://code.google.com/codejam/kickstart/) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 * [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
+* [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/)
 
 ## General Opportunities
 

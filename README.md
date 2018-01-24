@@ -111,6 +111,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 * [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
 * [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/)
+* [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organised by Digital Ocean in October.
 
 ## General Opportunities
 

@@ -15,6 +15,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  - [MOOCs](#moocs)
  - [Fellowships](#fellowshipsscholarships)
  - [Programming Events](#programming-events)
+ - [Hackathons](#hackathons)
  - [General Opportunities](#general-opportunities)
 
 ## Learning Platform
@@ -115,6 +116,13 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
 * [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/)
 * [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organised by Digital Ocean in October.
+
+## Hackathons
+
+* [Devpost](http://devpost.com/hackathons)
+* [hackathon.io](http://hackathon.io)
+* [Hackalist](https://www.hackalist.org)
+* [AngelHack](https://angelhack.com)
 
 ## General Opportunities
 

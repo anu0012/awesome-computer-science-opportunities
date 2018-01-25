@@ -93,6 +93,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [edX](https://www.edx.org)
 * [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 
 ## Fellowships/Scholarships
 

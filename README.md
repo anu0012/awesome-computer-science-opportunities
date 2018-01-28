@@ -105,6 +105,8 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Scholarship Opportunities at Google](https://edu.google.com/scholarships/)
 * [Microsoft Scholarship Program](https://careers.microsoft.com/students/scholarships) - For students at US/Canada/Mexico  only.
 * [Thiel Fellowship for young innovators](http://thielfellowship.org)
+* [The Facebook Fellowship Program](https://research.fb.com/programs/fellowship/)
+* [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships)
 
 ## Programming Events
 

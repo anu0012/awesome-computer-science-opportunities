@@ -107,6 +107,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Thiel Fellowship for young innovators](http://thielfellowship.org)
 * [The Facebook Fellowship Program](https://research.fb.com/programs/fellowship/)
 * [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships)
+* [S.N. Bose Scholars Program](http://iusstf.org/story/53-74-For-Indian-Students.html) - For Indian Students.
 
 ## Programming Events
 

@@ -42,6 +42,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Thimble](https://thimble.mozilla.org/en-US/)
  * [NodeSchool](https://nodeschool.io)
  * [The Odin Project](https://www.theodinproject.com/)
+ * [Egghead](https://egghead.io/) - Video tutorials on popular JavaScript frameworks
 
  ### Mobile Development
 

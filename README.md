@@ -36,6 +36,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [FireCode](https://www.firecode.io/)
  * [CodeWars](https://www.codewars.com/)
  * [CodinGame](https://www.codingame.com/) - learn to code by playing games
+ * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
 
  ### Web Development
 
@@ -45,6 +46,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [The Odin Project](https://www.theodinproject.com/)
  * [Egghead](https://egghead.io/) - Video tutorials on popular JavaScript frameworks
  * [Codeacademy](https://www.codecademy.com/)
+ * [CodeSchool](https://www.codeschool.com/) - Combination of video and interactive tutorials.
 
  ### Mobile Development
 

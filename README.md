@@ -35,7 +35,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [LeetCode](https://leetcode.com)
  * [FireCode](https://www.firecode.io/)
  * [CodeWars](https://www.codewars.com/)
- *[CodinGame](https://www.codingame.com/) -learn to code by playing games
+ * [CodinGame](https://www.codingame.com/) - learn to code by playing games
 
  ### Web Development
 
@@ -52,12 +52,12 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Android Developer Training](https://developer.android.com/training/index.html)
  * [Vogella](http://www.vogella.com/tutorials/android.html)
  * [Android Hive](https://www.androidhive.info)
- * [IOS development](https://in.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+ * [iOS development](https://in.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 
  ### DevOps
 
  * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html)
- * [Google aided Courses](https://www.coursera.org/specializations/google-it-support)
+ * [Google IT Support Course](https://www.coursera.org/specializations/google-it-support)
 
  ### Data Science
 

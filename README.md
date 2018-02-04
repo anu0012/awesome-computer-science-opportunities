@@ -45,7 +45,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [NodeSchool](https://nodeschool.io)
  * [The Odin Project](https://www.theodinproject.com/)
  * [Egghead](https://egghead.io/) - Video tutorials on popular JavaScript frameworks
- * [Codeacademy](https://www.codecademy.com/)
+ * [Codecademy](https://www.codecademy.com/)
  * [CodeSchool](https://www.codeschool.com/) - Combination of video and interactive tutorials.
 
  ### Mobile Development

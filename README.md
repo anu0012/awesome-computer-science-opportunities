@@ -37,6 +37,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [CodeWars](https://www.codewars.com/)
  * [CodinGame](https://www.codingame.com/) - learn to code by playing games
  * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
+ * [CodeFights](https://codefights.com)
 
  ### Web Development
 

@@ -38,6 +38,11 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [CodinGame](https://www.codingame.com/) - learn to code by playing games
  * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
  * [CodeFights](https://codefights.com)
+ * [CS Academy](https://csacademy.com) - Arranges contests 24/7 in both OJ and interview format along with an online editor/compiler
+ * [Timus](acm.timus.ru) - Largest Russian archive and online judge (OJ)
+ * [LightOJ](lightoj.com) - Type based problem set and OJ fobuildong skill in particular types
+ * [Tushar Roy video lectures](https://www.youtube.com/user/tusharroy2525)
+ * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests
 
  ### Web Development
 
@@ -106,6 +111,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
 * [Lynda](https://www.lynda.com)
+* [Stanford Online](https://online.stanford.edu/courses)
 
 ## Fellowships/Scholarships
 

@@ -69,8 +69,8 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [DataCamp](http://datacamp.com)
  * [DrivenData](https://www.drivendata.org/)
  * [Analytics Vidhya](http://analyticsvidhya.com)
- * [fast.ai](http://course.fast.ai/) - Deep Learning with only prequisite being general coding skills
- * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competetions
+ * [fast.ai](http://course.fast.ai/) - Deep Learning with only prerequisite being general coding skills.
+ * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.
 
  ### Artificial Intelligence
 

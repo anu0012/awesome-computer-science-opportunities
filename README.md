@@ -114,7 +114,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 [Back to Top](#contents)
 
-* [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships) - For Indian students
+* [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships) - Link for Indian students (Others click [here](https://www.udacity.com/scholarships))
 * [Scholarship Opportunities at Google](https://edu.google.com/scholarships/)
 * [Microsoft Scholarship Program](https://careers.microsoft.com/students/scholarships) - For students at US/Canada/Mexico  only.
 * [Thiel Fellowship for young innovators](http://thielfellowship.org)

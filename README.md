@@ -50,6 +50,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Egghead](https://egghead.io/) - Video tutorials on popular JavaScript frameworks
  * [Codecademy](https://www.codecademy.com/)
  * [CodeSchool](https://www.codeschool.com/) - Combination of video and interactive tutorials.
+ * [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn) - Web development articles by Mozilla.
 
  ### Mobile Development
 

@@ -142,6 +142,8 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 ## Hackathons
 
+[Back to Top](#contents)
+
 * [Devpost](http://devpost.com/hackathons)
 * [hackathon.io](http://hackathon.io)
 * [Hackalist](https://www.hackalist.org)

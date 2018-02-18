@@ -39,8 +39,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community. feedback.
  * [CodeFights](https://codefights.com)
  * [UVa](https://uva.onlinejudge.org)
- * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford.
- * [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) - Provides printable templates usable during online/on-site contests.
+ * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests.
 
  ### Web Development
 

@@ -31,15 +31,15 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [CodeForces](http://codeforces.com)
  * [ProjectEuler](http://projecteuler.net)
  * [Spoj](http://spoj.com)
- * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
+ * [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
  * [LeetCode](https://leetcode.com)
  * [FireCode](https://www.firecode.io/)
  * [CodeWars](https://www.codewars.com/)
- * [CodinGame](https://www.codingame.com/) - learn to code by playing games
- * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
+ * [CodinGame](https://www.codingame.com/) - Learn to code by playing games.
+ * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community. feedback.
  * [CodeFights](https://codefights.com)
  * [UVa](https://uva.onlinejudge.org)
- * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests
+ * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests.
 
  ### Web Development
 
@@ -87,7 +87,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [colah's blog](http://colah.github.io/)
 
  ### Computer Science
- * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format
+ * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
 
  ### Open Source
 
@@ -117,29 +117,31 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 [Back to Top](#contents)
 
-* [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships) - Link for Indian students (Others click [here](https://www.udacity.com/scholarships))
+* [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships) - Link for Indian students (Others click [here](https://www.udacity.com/scholarships)).
 * [Scholarship Opportunities at Google](https://edu.google.com/scholarships/)
-* [Microsoft Scholarship Program](https://careers.microsoft.com/students/scholarships) - For students at US/Canada/Mexico  only.
+* [Microsoft Scholarship Program](https://careers.microsoft.com/students/scholarships) - For students at US/Canada/Mexico only.
 * [Thiel Fellowship for young innovators](http://thielfellowship.org)
 * [The Facebook Fellowship Program](https://research.fb.com/programs/fellowship/)
 * [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships)
 * [S.N. Bose Scholars Program](http://iusstf.org/story/53-74-For-Indian-Students.html) - For Indian Students.
-* [Richard E. Merwin Student Scholarship](https://www.computer.org/web/students/merwin) - For IEEE members
+* [Richard E. Merwin Student Scholarship](https://www.computer.org/web/students/merwin) - For IEEE members.
 
 ## Programming Events
 
 [Back to Top](#contents)
 
-* [Google Summer of Code](https://summerofcode.withgoogle.com) - It is a global program focused on bringing more student developers into open source software development.
-* [Google CodeJam](https://code.google.com/codejam/) - Google’s largest coding competition
+* [Google Summer of Code](https://summerofcode.withgoogle.com) - A global program focused on bringing more student developers into open source software development.
+* [Google CodeJam](https://code.google.com/codejam/) - Google’s largest coding competition.
 * [Google Kickstart](https://code.google.com/codejam/kickstart/) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 * [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
-* [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/)
+* [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/).
 * [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organised by Digital Ocean in October.
 * [IEEEXtreme](ieeextreme.org) - Annual 24 hour long team contest for IEEE members.
 
 ## Hackathons
+
+[Back to Top](#contents)
 
 * [Devpost](http://devpost.com/hackathons)
 * [hackathon.io](http://hackathon.io)

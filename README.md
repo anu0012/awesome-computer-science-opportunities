@@ -43,14 +43,16 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  ### Web Development
 
- * [FreeCodeCamp](http://freecodecamp.com)
- * [Thimble](https://thimble.mozilla.org/en-US/)
- * [NodeSchool](https://nodeschool.io)
- * [The Odin Project](https://www.theodinproject.com/)
- * [Egghead](https://egghead.io/) - Video tutorials on popular JavaScript frameworks
- * [Codecademy](https://www.codecademy.com/)
+ * [FreeCodeCamp](http://freecodecamp.com) - Coding tutorials and challenges.
+ * [Thimble](https://thimble.mozilla.org/en-US/) - Free online code editor, web server, web browser & developer tools.
+ * [NodeSchool](https://nodeschool.io) - Open source workshops that teach web software skills.
+ * [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
+ * [Egghead](https://egghead.io/) - Video tutorials on popular JavaScript frameworks.
+ * [Codecademy](https://www.codecademy.com/) - Free and premium interactive tutorials for various languages.
  * [CodeSchool](https://www.codeschool.com/) - Combination of video and interactive tutorials.
  * [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn) - Web development articles by Mozilla.
+ * [W3Schools](https://www.w3schools.com/) - Tutorials on HTML, CSS, JavaScript and more.
+ * [Eloquent JavaScript](http://eloquentjavascript.net/) - An online book about JavaScript.
 
  ### Mobile Development
 
@@ -83,7 +85,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Andrej Karpathy](http://karpathy.github.io/)
  * [iamtrask](http://iamtrask.github.io/)  
  * [colah's blog](http://colah.github.io/)
- 
+
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format
 

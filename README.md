@@ -147,6 +147,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [hackathon.io](http://hackathon.io)
 * [Hackalist](https://www.hackalist.org)
 * [AngelHack](https://angelhack.com)
+* [Hackevents](https://hackevents.co/hackathons)
 
 ## General Opportunities
 

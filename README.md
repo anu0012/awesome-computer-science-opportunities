@@ -125,6 +125,8 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships)
 * [S.N. Bose Scholars Program](http://iusstf.org/story/53-74-For-Indian-Students.html) - For Indian Students.
 * [Richard E. Merwin Student Scholarship](https://www.computer.org/web/students/merwin) - For IEEE members.
+* [The Data Science for Social Good Fellowship](https://dssg.uchicago.edu) - It is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
+* [The Data Incubator](https://www.thedataincubator.com) - The Data Incubator is an 8-week educational fellowship preparing students with Master's degrees and PhDs for careers in big data and data science.
 
 ## Programming Events
 

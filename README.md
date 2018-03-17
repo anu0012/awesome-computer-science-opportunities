@@ -112,6 +112,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
 * [Lynda](https://www.lynda.com)
 * [Stanford Online](https://online.stanford.edu/courses)
+* [Pluralsight](https://www.pluralsight.com/)
 
 ## Fellowships/Scholarships
 

@@ -24,22 +24,23 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  ### Competitive Programming
 
- * [HackerRank](http://hackerrank.com)
- * [HackerEarth](http://hackerearth.com)
- * [CodeChef](http://codechef.com)
- * [TopCoder](http://topcoder.com)
- * [CodeForces](http://codeforces.com)
- * [ProjectEuler](http://projecteuler.net)
- * [Spoj](http://spoj.com)
+ * [HackerRank](http://hackerrank.com) - Solve code challenges to prepare for programming interviews.
+ * [HackerEarth](http://hackerearth.com) - Solve code challenges to help companies find innovative solutions for their businesses.
+ * [CodeChef](http://codechef.com) - Non-profit competitive programming platform.
+ * [TopCoder](http://topcoder.com) - Partecipate in code challenges and help solve real world problems.
+ * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
+ * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
+ * [Spoj](http://spoj.com) - Programming contests with online judging system.
  * [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
- * [LeetCode](https://leetcode.com)
- * [FireCode](https://www.firecode.io/)
- * [CodeWars](https://www.codewars.com/)
+ * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
+ * [FireCode](https://www.firecode.io/) - An online coding interview preparation.
+ * [CodeWars](https://www.codewars.com/) - Code challenges platform to level up your skills.
  * [CodinGame](https://www.codingame.com/) - Learn to code by playing games.
- * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community. feedback.
- * [CodeFights](https://codefights.com)
- * [UVa](https://uva.onlinejudge.org)
+ * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
+ * [CodeFights](https://codefights.com) - Practice programming and land a job.
+ * [UVa](https://uva.onlinejudge.org) - Programming contests with online judging system.
  * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests.
+ * [Exercism](http://exercism.io/) - Solve programming challenges from your terminal.
 
  ### Web Development
 
@@ -57,73 +58,75 @@ An awesome list of events and fellowship opportunities for computer science stud
  ### Mobile Development
 
  * [Udacity Android Nanodegree](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) - Students can also apply for [scholarship](https://in.udacity.com/google-india-scholarships) given by Google.
- * [Android Developer Training](https://developer.android.com/training/index.html)
- * [Vogella](http://www.vogella.com/tutorials/android.html)
- * [Android Hive](https://www.androidhive.info)
- * [iOS development](https://in.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+ * [Android Developer Training](https://developers.google.com/training/android/) - Range of courses to help you build Android apps.
+ * [Vogella](http://www.vogella.com/tutorials/android.html) - Tutorials about Android development.
+ * [Android Hive](https://www.androidhive.info) - Android tutorials blog.
+ * [iOS development](https://in.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Build your first iOS app with an Udacity course.
 
  ### DevOps
 
- * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html)
- * [Google IT Support Course](https://www.coursera.org/specializations/google-it-support)
+ * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html) - Course dedicated to teach core software development and systems operation skills.
+ * [Google IT Support Course](https://www.coursera.org/specializations/google-it-support) - Google course to prepare you for a job in IT support.
 
  ### Data Science
 
- * [Kaggle](http://kaggle.com)
- * [DataQuest](http://dataquest.io)
- * [DataCamp](http://datacamp.com)
- * [DrivenData](https://www.drivendata.org/)
- * [Analytics Vidhya](http://analyticsvidhya.com)
+ * [Kaggle](http://kaggle.com) - Data science competitive platform.
+ * [DataQuest](http://dataquest.io) - Learn data science with your browser.
+ * [DataCamp](http://datacamp.com) - Learn data science online.
+ * [DrivenData](https://www.drivendata.org/) - Partecipate in data science competitions and help organizations.
+ * [Analytics Vidhya](http://analyticsvidhya.com) - Training and Q&A platform based around data science.
  * [fast.ai](http://course.fast.ai/) - Deep Learning with only prerequisite being general coding skills.
  * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.
 
  ### Artificial Intelligence
 
- * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
- * [Sentdex](https://www.youtube.com/user/sentdex)
- * [Two Minute Papers](https://www.youtube.com/user/keeroyz)
- * [Andrej Karpathy](http://karpathy.github.io/)
- * [iamtrask](http://iamtrask.github.io/)  
- * [colah's blog](http://colah.github.io/)
+ * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - Youtube channel with tutorials about AI.
+ * [Sentdex](https://www.youtube.com/user/sentdex) - Youtube channel with programming tutorials.
+ * [Two Minute Papers](https://www.youtube.com/user/keeroyz) - Learn AI with 5 mins videos.
+ * [Andrej Karpathy](http://karpathy.github.io/) - Old blog about AI, now posting on [Medium](https://medium.com/@karpathy/). 
+ * [iamtrask](http://iamtrask.github.io/) - Machine Learning blog.
+ * [colah's blog](http://colah.github.io/) - Blog about neural networks.
 
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
 
  ### Open Source
 
- * [Up For Grabs](http://up-for-grabs.net/#/)
- * [24 Pull Requests](https://24pullrequests.com)
- * [OpenHatch](https://openhatch.org/search/)
- * [First Timers Only](http://www.firsttimersonly.com)
- * [Your First PR](http://yourfirstpr.github.io/)  
- * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
- * [CodeTriage](https://www.codetriage.com/)
-
+ * [Up For Grabs](http://up-for-grabs.net/#/) - Start exploring open source projects and get involved in them.
+ * [24 Pull Requests](https://24pullrequests.com) - Yearly initiative to encourage developers to send 24 pull requests during December.
+ * [OpenHatch](https://openhatch.org/search/) - Non-profit providing tools for new open source contributors.
+ * [First Timers Only](http://www.firsttimersonly.com) - Beginners-friendly open source projects.
+ * [Your First PR](http://yourfirstpr.github.io/) - Helps you make a contribution by showcasing great starter issues on Github.
+ * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+ * [CodeTriage](https://www.codetriage.com/) - Pick your favorite projects to recieve a different issue in your inbox every day.
+ * [Open Source Friday](https://opensourcefriday.com/) - Helps you find a project to contribute to. 
 ## MOOCs
 
 [Back to Top](#contents)
 
-* [Udacity](http://udacity.com)
-* [Coursera](http://coursera.org)
-* [Udemy](http://udemy.com)
-* [edX](https://www.edx.org)
-* [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/)
-* [Microsoft Virtual Academy](https://mva.microsoft.com)
+* [Udacity](http://udacity.com) - Free and paid online classes.
+* [Coursera](http://coursera.org) - Courses from schools and universities like Stanford and Yale.
+* [Udemy](http://udemy.com) - Online learning and teaching platform. 
+* [edX](https://www.edx.org) - Free online courses from institutions like Harvard, MIT, Microsoft and more. 
+* [Codecademy](https://www.codecademy.com/) - Online learing platform for coding.
+* [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/) - Browse and learn with free MIT courses' material.
+* [Microsoft Virtual Academy](https://mva.microsoft.com) - Free courses on IT basic concepts and Microsoft products and services. 
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
-* [Lynda](https://www.lynda.com)
-* [Stanford Online](https://online.stanford.edu/courses)
-* [Pluralsight](https://www.pluralsight.com/)
+* [Lynda](https://www.lynda.com) - Online learing platform.
+* [Stanford Online](https://online.stanford.edu/courses) - Stanford's courses platform.
+* [Pluralsight](https://www.pluralsight.com/) - Paid learing platform made to help you build your carreer or land a job.
+* [Khan Academy](https://www.khanacademy.org/) - Free online learing platform.
 
 ## Fellowships/Scholarships
 
 [Back to Top](#contents)
 
 * [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships) - Link for Indian students (Others click [here](https://www.udacity.com/scholarships)).
-* [Scholarship Opportunities at Google](https://edu.google.com/scholarships/)
+* [Scholarship Opportunities at Google](https://edu.google.com/scholarships/) - Google's scholarship opportunities.
 * [Microsoft Scholarship Program](https://careers.microsoft.com/students/scholarships) - For students at US/Canada/Mexico only.
-* [Thiel Fellowship for young innovators](http://thielfellowship.org)
-* [The Facebook Fellowship Program](https://research.fb.com/programs/fellowship/)
-* [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships)
+* [Thiel Fellowship for young innovators](http://thielfellowship.org) - Intended for students under 23yo and offers a total of $100,000 and guidance to drop out of school and pursue other work.
+* [The Facebook Fellowship Program](https://research.fb.com/programs/fellowship/) - Designed to encourage promising doctoral students who are engaged in areas related to computer science.
+* [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships) - Fellowship for AI,ML students.
 * [S.N. Bose Scholars Program](http://iusstf.org/story/53-74-For-Indian-Students.html) - For Indian Students.
 * [Richard E. Merwin Student Scholarship](https://www.computer.org/web/students/merwin) - For IEEE members.
 * [The Data Science for Social Good Fellowship](https://dssg.uchicago.edu) - It is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
@@ -146,14 +149,15 @@ An awesome list of events and fellowship opportunities for computer science stud
 
 [Back to Top](#contents)
 
-* [Devpost](http://devpost.com/hackathons)
-* [hackathon.io](http://hackathon.io)
-* [Hackalist](https://www.hackalist.org)
-* [AngelHack](https://angelhack.com)
-* [Hackevents](https://hackevents.co/hackathons)
+* [Devpost](http://devpost.com/hackathons) - Online or in-person hackathons browsing platform.
+* [hackathon.io](http://hackathon.io) - Browse in-person hackathons.
+* [Hackalist](https://www.hackalist.org) - List of upcoming hackathons.
+* [AngelHack](https://angelhack.com) - Hackathon planning organization.
+* [Hackevents](https://hackevents.co/hackathons) - Hackathons search engine.
 
 ## General Opportunities
 
 [Back to Top](#contents)
 
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
+* [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.

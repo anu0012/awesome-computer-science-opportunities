@@ -157,3 +157,4 @@ An awesome list of events and fellowship opportunities for computer science stud
 [Back to Top](#contents)
 
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
+* [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Everything you need to build and deploy your app on any platform including tools, services, training, and more.

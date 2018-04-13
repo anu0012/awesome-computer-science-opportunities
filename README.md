@@ -89,6 +89,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
+ * [Tutorials Point](http://tutorialspoint.com) - tutorials for technologies like web, mobile and many more.
 
  ### Open Source
 

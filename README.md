@@ -77,6 +77,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Analytics Vidhya](http://analyticsvidhya.com) - Training and Q&A platform based around data science.
  * [fast.ai](http://course.fast.ai/) - Deep Learning with only prerequisite being general coding skills.
  * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.
+ * [Data Science Central](https://www.datasciencecentral.com/) - the online resource for big data practitioners.
 
  ### Artificial Intelligence
 

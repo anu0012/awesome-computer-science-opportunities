@@ -96,6 +96,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  * [Up For Grabs](http://up-for-grabs.net/#/) - Start exploring open source projects and get involved in them.
  * [24 Pull Requests](https://24pullrequests.com) - Yearly initiative to encourage developers to send 24 pull requests during December.
+ * [HacktoberFest](https://hacktoberfest.digitalocean.com) - Similar to 24PullRequests, gives swag for 4 accepted pull requests.
  * [OpenHatch](https://openhatch.org/search/) - Non-profit providing tools for new open source contributors.
  * [First Timers Only](http://www.firsttimersonly.com) - Beginners-friendly open source projects.
  * [Your First PR](http://yourfirstpr.github.io/) - Helps you make a contribution by showcasing great starter issues on Github.

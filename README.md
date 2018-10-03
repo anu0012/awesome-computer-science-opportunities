@@ -143,6 +143,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Google CodeJam](https://code.google.com/codejam/) - Google’s largest coding competition.
 * [Google Kickstart](https://code.google.com/codejam/kickstart/) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
+* [Google Code-in](https://codein.withgoogle.com/) - A competition for pre-university students(13 to 17 years old) to introduce themselves to the world of open source by doing small tasks for various open source projects.
 * [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
 * [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/).
 * [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organised by Digital Ocean in October.

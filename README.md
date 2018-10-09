@@ -119,6 +119,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Stanford Online](https://online.stanford.edu/courses) - Stanford's courses platform.
 * [Pluralsight](https://www.pluralsight.com/) - Paid learing platform made to help you build your carreer or land a job.
 * [Khan Academy](https://www.khanacademy.org/) - Free online learing platform.
+* [Sololearn](https://www.sololearn.com/) - Learn coding from the ground up for free!! (also availabel on android)
 
 ## Fellowships/Scholarships
 

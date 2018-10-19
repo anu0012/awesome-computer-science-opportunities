@@ -160,6 +160,9 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Hackalist](https://www.hackalist.org) - List of upcoming hackathons.
 * [AngelHack](https://angelhack.com) - Hackathon planning organization.
 * [Hackevents](https://hackevents.co/hackathons) - Hackathons search engine.
+* [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenges) - The challenge is a chance for students to conduct research or analysis on our data and share their discoveries with Yelp.
+* [hack.summit()](https://www.crowdcast.io/hack_summit) - Virtual conference where you can learn from the world's most renowned programmers.
+
 
 ## General Opportunities
 

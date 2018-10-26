@@ -55,6 +55,9 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn) - Web development articles by Mozilla.
  * [W3Schools](https://www.w3schools.com/) - Tutorials on HTML, CSS, JavaScript and more.
  * [Eloquent JavaScript](http://eloquentjavascript.net/) - An online book about JavaScript.
+ * [Coder-Coder](https://www.coder-coder.com/) - Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
+ * [CodeCraft](https://codecraft.tv/) - Provide Web Developement Courses on Javascript, AngularJS, Angular 5 for free.
+ 
 
  ### Mobile Development
 

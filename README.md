@@ -156,7 +156,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
 * [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/).
 * [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organised by Digital Ocean in October.
-* [IEEEXtreme](ieeextreme.org) - Annual 24 hour long team contest for IEEE members.
+* [IEEEXtreme](https://ieeextreme.org) - Annual 24 hour long team contest for IEEE members.
 
 ## Hackathons
 
@@ -167,7 +167,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 * [Hackalist](https://www.hackalist.org) - List of upcoming hackathons.
 * [AngelHack](https://angelhack.com) - Hackathon planning organization.
 * [Hackevents](https://hackevents.co/hackathons) - Hackathons search engine.
-* [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenges) - The challenge is a chance for students to conduct research or analysis on our data and share their discoveries with Yelp.
+* [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) - The challenge is a chance for students to conduct research or analysis on our data and share their discoveries with Yelp.
 * [hack.summit()](https://www.crowdcast.io/hack_summit) - Virtual conference where you can learn from the world's most renowned programmers.
 
 

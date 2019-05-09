@@ -57,6 +57,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Eloquent JavaScript](http://eloquentjavascript.net/) - An online book about JavaScript.
  * [Coder-Coder](https://www.coder-coder.com/) - Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
  * [CodeCraft](https://codecraft.tv/) - Provide Web Developement Courses on Javascript, AngularJS, Angular 5 for free.
+ * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  
 
  ### Mobile Development

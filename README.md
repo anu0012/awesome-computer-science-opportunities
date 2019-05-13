@@ -44,6 +44,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [DailyCodingProblem](https://www.dailycodingproblem.com/) - Get exceptionally good at coding interviews by solving one problem every day.
  * [acmp.ru](acmp.ru) - Russian programming contests
  * [Timus Online Judge](http://acm.timus.ru/?locale=en) - Programming contests with online judging system.
+ * [DMOJ: Modern Online Judge](dmoj.ca) - contest platform and archive of programming problems
 
  ### Web Development
 

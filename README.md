@@ -42,6 +42,8 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests.
  * [Exercism](http://exercism.io/) - Solve programming challenges from your terminal.
  * [DailyCodingProblem](https://www.dailycodingproblem.com/) - Get exceptionally good at coding interviews by solving one problem every day.
+ * [acmp.ru](acmp.ru) - Russian programming contests
+ * [Timus Online Judge](http://acm.timus.ru/?locale=en) - Programming contests with online judging system.
 
  ### Web Development
 

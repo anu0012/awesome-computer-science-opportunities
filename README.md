@@ -12,6 +12,7 @@ An awesome list of events and fellowship opportunities for computer science stud
    - [Artificial Intelligence](#artificial-intelligence)
    - [Computer Science](#computer-science)
    - [Open Source](#open-source)
+ - [Infosec](#infosec)
  - [MOOCs](#moocs)
  - [Fellowships](#fellowshipsscholarships)
  - [Programming Events](#programming-events)
@@ -114,6 +115,20 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
  * [CodeTriage](https://www.codetriage.com/) - Pick your favorite projects to recieve a different issue in your inbox every day.
  * [Open Source Friday](https://opensourcefriday.com/) - Helps you find a project to contribute to. 
+
+## Infosec
+__How to start? - blogs__
+* [Beginner Bug Bounty Hunters resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)- Collection of resources to build up the basics of Web Application Security
+* [Getting Started in Bug Bounty Hunting](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/) - What You Should Know Before Starting to learn about Bug Bounty Hunting?
+* [Getting started in Bug Bounty](https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a) - How to get started in Bug Bounties
+* [How to get started with bug Bounty?](https://medium.com/@unknownuser1806/what-i-have-learn-in-my-first-month-of-hacking-and-bug-bounty-dc1a4be58294) - What you need to learn before getting started with bug bounty
+* [METHODOLOGY , TOOLKIT , TIPS & TRICKS](https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65) - A complete bug bounty blog for beginners
+
+__Recon__
+* [Recon - by Sahil Ahamad](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21) - Blog post on reconnaissance processes for web applications security testing
+* [Recon - by Adrien](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d) - What tools I use for my recon during Bug Bounty
+
+
 ## MOOCs
 
 [Back to Top](#contents)

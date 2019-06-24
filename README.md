@@ -12,6 +12,7 @@ An awesome list of events and fellowship opportunities for computer science stud
    - [Artificial Intelligence](#artificial-intelligence)
    - [Computer Science](#computer-science)
    - [Open Source](#open-source)
+ - [Infosec](#infosec)
  - [MOOCs](#moocs)
  - [Fellowships](#fellowshipsscholarships)
  - [Programming Events](#programming-events)

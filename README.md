@@ -163,7 +163,7 @@ __Recon__
 * [The Data Science for Social Good Fellowship](https://dssg.uchicago.edu) - It is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
 * [The Data Incubator](https://www.thedataincubator.com) - The Data Incubator is an 8-week educational fellowship preparing students with Master's degrees and PhDs for careers in big data and data science.
 * [Kleiner Perkins Fellow - Engineering](http://fellows.kleinerperkins.com) - Kleiner Perkins Fellows program matches accepted fellows up with their partnering Silicon Valley startups over the summer.
-* [Cern Openlab Summer Student Programme](https://openlab.cern/) - CERN openlab is a 2 month long student program where students complete assigned projects with CERN members during the summer.
+* [Cern Openlab Summer Student Programme](https://openlab.cern/education) - CERN openlab is a 2 month long student program where students complete assigned projects with CERN members during the summer.
 
 ## Programming Events
 

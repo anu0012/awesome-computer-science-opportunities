@@ -147,6 +147,7 @@ __Recon__
 * [Khan Academy](https://www.khanacademy.org/) - Free online learing platform.
 * [Sololearn](https://www.sololearn.com/) - Learn coding from the ground up for free!! (also availabel on android)
 * [Y Combinator](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-) - Learn how engineering works at a Y Combinator startup
+* [MOOC.fi](https://www.mooc.fi/en) - Free courses from the University of Helsinki's Department of Computer Science.
 
 ## Fellowships/Scholarships
 

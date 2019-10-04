@@ -165,6 +165,7 @@ __Recon__
 * [Kleiner Perkins Fellow - Engineering](http://fellows.kleinerperkins.com) - Kleiner Perkins Fellows program matches accepted fellows up with their partnering Silicon Valley startups over the summer.
 * [Cern Openlab Summer Student Programme](https://openlab.cern/education) - CERN openlab is a 2 month long student program where students complete assigned projects with CERN members during the summer.
 * [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) - Adobe Scholarship for encouraging women to showcase their excellence in computing and technology.
+* [Grace Hopper Scholarship](https://www.gracehopper-gitusc.com/#!) - A Scholarship by USC Girls in Tech.
 
 ## Programming Events
 

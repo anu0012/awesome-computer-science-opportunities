@@ -28,11 +28,11 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [HackerRank](http://hackerrank.com) - Solve code challenges to prepare for programming interviews.
  * [HackerEarth](http://hackerearth.com) - Solve code challenges to help companies find innovative solutions for their businesses.
  * [CodeChef](http://codechef.com) - Non-profit competitive programming platform.
- * [TopCoder](http://topcoder.com) - Partecipate in code challenges and help solve real world problems.
+ * [TopCoder](http://topcoder.com) - Participate in code challenges and help solve real world problems.
  * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
  * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
  * [Spoj](http://spoj.com) - Programming contests with online judging system.
- * [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
+ * [VisuAlgo](https://visualgo.net/en) - Visualizing data structures and algorithms through animation.
  * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
  * [FireCode](https://www.firecode.io/) - An online coding interview preparation.
  * [CodeWars](https://www.codewars.com/) - Code challenges platform to level up your skills.
@@ -61,10 +61,10 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [W3Schools](https://www.w3schools.com/) - Tutorials on HTML, CSS, JavaScript and more.
  * [Eloquent JavaScript](http://eloquentjavascript.net/) - An online book about JavaScript.
  * [Coder-Coder](https://www.coder-coder.com/) - Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
- * [CodeCraft](https://codecraft.tv/) - Provide Web Developement Courses on Javascript, AngularJS, Angular 5 for free.
+ * [CodeCraft](https://codecraft.tv/) - Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
- 
+
 
  ### Mobile Development
 
@@ -84,7 +84,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Kaggle](http://kaggle.com) - Data science competitive platform.
  * [DataQuest](http://dataquest.io) - Learn data science with your browser.
  * [DataCamp](http://datacamp.com) - Learn data science online.
- * [DrivenData](https://www.drivendata.org/) - Partecipate in data science competitions and help organizations.
+ * [DrivenData](https://www.drivendata.org/) - Participate in data science competitions and help organizations.
  * [Analytics Vidhya](http://analyticsvidhya.com) - Training and Q&A platform based around data science.
  * [fast.ai](http://course.fast.ai/) - Deep Learning with only prerequisite being general coding skills.
  * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.
@@ -93,17 +93,17 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  ### Artificial Intelligence
 
- * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - Youtube channel with tutorials about AI.
- * [Sentdex](https://www.youtube.com/user/sentdex) - Youtube channel with programming tutorials.
+ * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - YouTube channel with tutorials about AI.
+ * [Sentdex](https://www.youtube.com/user/sentdex) - YouTube channel with programming tutorials.
  * [Two Minute Papers](https://www.youtube.com/user/keeroyz) - Learn AI with 5 mins videos.
- * [Andrej Karpathy](http://karpathy.github.io/) - Old blog about AI, now posting on [Medium](https://medium.com/@karpathy/). 
+ * [Andrej Karpathy](http://karpathy.github.io/) - Old blog about AI, now posting on [Medium](https://medium.com/@karpathy/).
  * [iamtrask](http://iamtrask.github.io/) - Machine Learning blog.
  * [colah's blog](http://colah.github.io/) - Blog about neural networks.
 
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
  * [Tutorials Point](http://tutorialspoint.com) - tutorials for technologies like web, mobile and many more.
- * [Introduction to Computer Science - CS101](https://classroom.udacity.com/courses/cs101/) - introduction to computer science in python language. 
+ * [Introduction to Computer Science - CS101](https://classroom.udacity.com/courses/cs101/) - introduction to computer science in python language.
 
  ### Open Source
 
@@ -114,8 +114,8 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [First Timers Only](http://www.firsttimersonly.com) - Beginners-friendly open source projects.
  * [Your First PR](http://yourfirstpr.github.io/) - Helps you make a contribution by showcasing great starter issues on Github.
  * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
- * [CodeTriage](https://www.codetriage.com/) - Pick your favorite projects to recieve a different issue in your inbox every day.
- * [Open Source Friday](https://opensourcefriday.com/) - Helps you find a project to contribute to. 
+ * [CodeTriage](https://www.codetriage.com/) - Pick your favorite projects to receive a different issue in your inbox every day.
+ * [Open Source Friday](https://opensourcefriday.com/) - Helps you find a project to contribute to.
 
 ## Infosec
 __How to start? - blogs__
@@ -136,17 +136,17 @@ __Recon__
 
 * [Udacity](http://udacity.com) - Free and paid online classes.
 * [Coursera](http://coursera.org) - Courses from schools and universities like Stanford and Yale.
-* [Udemy](http://udemy.com) - Online learning and teaching platform. 
-* [edX](https://www.edx.org) - Free online courses from institutions like Harvard, MIT, Microsoft and more. 
-* [Codecademy](https://www.codecademy.com/) - Online learing platform for coding.
+* [Udemy](http://udemy.com) - Online learning and teaching platform.
+* [edX](https://www.edx.org) - Free online courses from institutions like Harvard, MIT, Microsoft and more.
+* [Codecademy](https://www.codecademy.com/) - Online learning platform for coding.
 * [MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/find-by-department/) - Browse and learn with free MIT courses' material.
-* [Microsoft Virtual Academy](https://mva.microsoft.com) - Free courses on IT basic concepts and Microsoft products and services. 
+* [Microsoft Virtual Academy](https://mva.microsoft.com) - Free courses on IT basic concepts and Microsoft products and services.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
-* [Lynda](https://www.lynda.com) - Online learing platform.
+* [Lynda](https://www.lynda.com) - Online learning platform.
 * [Stanford Online](https://online.stanford.edu/courses) - Stanford's courses platform.
-* [Pluralsight](https://www.pluralsight.com/) - Paid learing platform made to help you build your carreer or land a job.
-* [Khan Academy](https://www.khanacademy.org/) - Free online learing platform.
-* [Sololearn](https://www.sololearn.com/) - Learn coding from the ground up for free!! (also availabel on android)
+* [Pluralsight](https://www.pluralsight.com/) - Paid learning platform made to help you build your career or land a job.
+* [Khan Academy](https://www.khanacademy.org/) - Free online learning platform.
+* [Sololearn](https://www.sololearn.com/) - Learn coding from the ground up for free!! (also available on android)
 * [Y Combinator](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-) - Learn how engineering works at a Y Combinator startup
 * [MOOC.fi](https://www.mooc.fi/en) - Free courses from the University of Helsinki's Department of Computer Science.
 
@@ -166,6 +166,8 @@ __Recon__
 * [The Data Incubator](https://www.thedataincubator.com) - The Data Incubator is an 8-week educational fellowship preparing students with Master's degrees and PhDs for careers in big data and data science.
 * [Kleiner Perkins Fellow - Engineering](http://fellows.kleinerperkins.com) - Kleiner Perkins Fellows program matches accepted fellows up with their partnering Silicon Valley startups over the summer.
 * [Cern Openlab Summer Student Programme](https://openlab.cern/education) - CERN openlab is a 2 month long student program where students complete assigned projects with CERN members during the summer.
+* [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) - Adobe Scholarship for encouraging women to showcase their excellence in computing and technology.
+* [Grace Hopper Scholarship](https://www.gracehopper-gitusc.com/#!) - A Scholarship by USC Girls in Tech.
 
 ## Programming Events
 
@@ -176,9 +178,9 @@ __Recon__
 * [Google Kickstart](https://code.google.com/codejam/kickstart/) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 * [Google Code-in](https://codein.withgoogle.com/) - A competition for pre-university students(13 to 17 years old) to introduce themselves to the world of open source by doing small tasks for various open source projects.
-* [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organised by Facebook.
+* [Facebook HackerCup](https://www.facebook.com/hackercup/) - Annual programming contest organized by Facebook.
 * [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/).
-* [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organised by Digital Ocean in October.
+* [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organized by Digital Ocean in October.
 * [IEEEXtreme](https://ieeextreme.org) - Annual 24 hour long team contest for IEEE members.
 
 ## Hackathons

@@ -191,7 +191,7 @@ __Recon__
 * [Hackevents](https://hackevents.co/hackathons) - Hackathons search engine.
 * [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) - The challenge is a chance for students to conduct research or analysis on our data and share their discoveries with Yelp.
 * [hack.summit()](https://www.crowdcast.io/hack_summit) - Virtual conference where you can learn from the world's most renowned programmers.
-*[Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)-Bring your tech idea to life with the Imagine Cup and make a difference through creativity, collaboration, and competition.
+* [Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)-Bring your tech idea to life with the Imagine Cup and make a difference through creativity, collaboration, and competition.
 
 
 ## General Opportunities

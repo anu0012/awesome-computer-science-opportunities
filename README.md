@@ -37,6 +37,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [FireCode](https://www.firecode.io/) - An online coding interview preparation.
  * [CodeWars](https://www.codewars.com/) - Code challenges platform to level up your skills.
  * [CodinGame](https://www.codingame.com/) - Learn to code by playing games.
+ * [CodeForces](http://codeforces.com/) - Online platform that hosts competitions and problem sets	
  * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
  * [CodeFights](https://codefights.com) - Practice programming and land a job.
  * [UVa](https://uva.onlinejudge.org) - Programming contests with online judging system.
@@ -46,6 +47,12 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [acmp.ru](http://acmp.ru) - Russian programming contests
  * [Timus Online Judge](http://acm.timus.ru/?locale=en) - Programming contests with online judging system.
  * [DMOJ: Modern Online Judge](https://dmoj.ca) - contest platform and archive of programming problems
+ * [Rose Code](https://www.rosecode.net/) - Programming challenges with leaderboards and blog posts
+ * [Coderbyte](https://coderbyte.com/) - Programming challenges and specific routes to help learn specific skills
+ * [Code Golf](https://code-golf.io/) - Programming challenges with individual leaderboards for problems
+ * [Daily Coding Problem](https://www.dailycodingproblem.com/) - Get emailed a new coding problem every day
+ * [Halite](https://halite.io/) - Create AI to face off against other people's AI. More specialized on AI
+ * [Advent of Code](https://adventofcode.com/) - A yearly set of coding challenges that published with leaderboards
 
  ### Web Development
 
@@ -98,6 +105,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Andrej Karpathy](http://karpathy.github.io/) - Old blog about AI, now posting on [Medium](https://medium.com/@karpathy/). 
  * [iamtrask](http://iamtrask.github.io/) - Machine Learning blog.
  * [colah's blog](http://colah.github.io/) - Blog about neural networks.
+ * [Google Machine Learning Course](https://developers.google.com/machine-learning/crash-course) - A crash course of machine learning taught by Google Engineers
 
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
@@ -164,6 +172,7 @@ __Recon__
 * [The Data Incubator](https://www.thedataincubator.com) - The Data Incubator is an 8-week educational fellowship preparing students with Master's degrees and PhDs for careers in big data and data science.
 * [Kleiner Perkins Fellow - Engineering](http://fellows.kleinerperkins.com) - Kleiner Perkins Fellows program matches accepted fellows up with their partnering Silicon Valley startups over the summer.
 * [Cern Openlab Summer Student Programme](https://openlab.cern/education) - CERN openlab is a 2 month long student program where students complete assigned projects with CERN members during the summer.
+* [HackNY Fellow](https://apply.hackny.org/) -  Fellowship that matches students with New York City Startups 
 
 ## Programming Events
 
@@ -190,7 +199,7 @@ __Recon__
 * [Hackevents](https://hackevents.co/hackathons) - Hackathons search engine.
 * [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) - The challenge is a chance for students to conduct research or analysis on our data and share their discoveries with Yelp.
 * [hack.summit()](https://www.crowdcast.io/hack_summit) - Virtual conference where you can learn from the world's most renowned programmers.
-
+* [Major League Hacking Event Page](https://mlh.io/) - A list of a ton of events that are sponsored by the official hackathon league
 
 ## General Opportunities
 

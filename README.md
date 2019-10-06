@@ -63,6 +63,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Coder-Coder](https://www.coder-coder.com/) - Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
  * [CodeCraft](https://codecraft.tv/) - Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
+ * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
 
 
  ### Mobile Development
@@ -147,6 +148,7 @@ __Recon__
 * [Khan Academy](https://www.khanacademy.org/) - Free online learning platform.
 * [Sololearn](https://www.sololearn.com/) - Learn coding from the ground up for free!! (also available on android)
 * [Y Combinator](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-) - Learn how engineering works at a Y Combinator startup
+* [MOOC.fi](https://www.mooc.fi/en) - Free courses from the University of Helsinki's Department of Computer Science.
 
 ## Fellowships/Scholarships
 

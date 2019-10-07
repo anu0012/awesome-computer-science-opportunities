@@ -175,7 +175,7 @@ __Recon__
 * [HackNY Fellow](https://apply.hackny.org/) -  Fellowship that matches students with New York City Startups 
 * [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) - Adobe Scholarship for encouraging women to showcase their excellence in computing and technology.
 * [Grace Hopper Scholarship](https://www.gracehopper-gitusc.com/#!) - A Scholarship by USC Girls in Tech.
-* [WeTech Qualcomm Global Scholarship] (https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program) - A scholarship for women in technology by Qualcomm and IIE.
+* [WeTech Qualcomm Global Scholarship](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program) - A scholarship for women in technology by Qualcomm and IIE.
 
 ## Programming Events
 

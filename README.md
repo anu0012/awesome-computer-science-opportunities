@@ -176,6 +176,7 @@ __Recon__
 * [HackNY Fellow](https://apply.hackny.org/) -  Fellowship that matches students with New York City Startups 
 * [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) - Adobe Scholarship for encouraging women to showcase their excellence in computing and technology.
 * [Grace Hopper Scholarship](https://www.gracehopper-gitusc.com/#!) - A Scholarship by USC Girls in Tech.
+* [WeTech Qualcomm Global Scholarship](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program) - A scholarship for women in technology by Qualcomm and IIE.
 * [Emeritus fellowship](https://www.ugc.ac.in/ef/) - For the superannuated teachers.
 * [Junior research fellowship in science, humanities and social science](https://www.ugc.ac.in/oldpdf/xplanpdf/JRFscience.pdf) - It is for qualifiers of UGC and UGC-CSIR tests.
 * [UGC research fellowships in science for meritorious students](https://www.ugc.ac.in/oldpdf/xiplanpdf/meritorious%20students.pdf) - It is to promote quality research in University/Departments. 

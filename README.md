@@ -104,8 +104,9 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Two Minute Papers](https://www.youtube.com/user/keeroyz) - Learn AI with 5 mins videos.
  * [Andrej Karpathy](http://karpathy.github.io/) - Old blog about AI, now posting on [Medium](https://medium.com/@karpathy/).
  * [iamtrask](http://iamtrask.github.io/) - Machine Learning blog.
- * [colah's blog](http://colah.github.io/) - Blog about neural networks.
+ * [colah's blog](http://colah.github.io/) - Blog about neural networks. 
  * [Google Machine Learning Course](https://developers.google.com/machine-learning/crash-course) - A crash course of machine learning taught by Google Engineers
+ * [Google AI](https://ai.google/education/)- Learn from ML experts at Google
 
  ### Computer Science
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
@@ -207,6 +208,7 @@ __Recon__
 * [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) - The challenge is a chance for students to conduct research or analysis on our data and share their discoveries with Yelp.
 * [hack.summit()](https://www.crowdcast.io/hack_summit) - Virtual conference where you can learn from the world's most renowned programmers.
 * [Major League Hacking Event Page](https://mlh.io/) - A list of a ton of events that are sponsored by the official hackathon league
+* [Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)-Bring your tech idea to life with the Imagine Cup and make a difference through creativity, collaboration, and competition.
 
 ## General Opportunities
 

@@ -32,6 +32,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
  * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
  * [Spoj](http://spoj.com) - Programming contests with online judging system.
+ * [InterviewBit](https://www.interviewbit.com) - A platform to learn and practice coding interview questions.
  * [VisuAlgo](https://visualgo.net/en) - Visualizing data structures and algorithms through animation.
  * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
  * [FireCode](https://www.firecode.io/) - An online coding interview preparation.

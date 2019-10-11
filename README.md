@@ -197,6 +197,7 @@ __Recon__
 * [List of Open Source Internship Programs](https://github.com/tapasweni-pathak/SOC-Programs) - Includes [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Outreachy](https://www.outreachy.org/).
 * [Hactoberfest](https://hacktoberfest.digitalocean.com) - Organized by Digital Ocean in October.
 * [IEEEXtreme](https://ieeextreme.org) - Annual 24 hour long team contest for IEEE members.
+* [JavaMUG](https://javamug.org) - Monthly Java-realted meetup in Plano, TX.
 
 ## Hackathons
 

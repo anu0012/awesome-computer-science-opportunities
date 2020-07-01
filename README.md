@@ -165,6 +165,8 @@ __Recon__
 * [Developer Scholarship from Google](https://in.udacity.com/google-india-scholarships) - Link for Indian students (Others click [here](https://www.udacity.com/scholarships)).
 * [Scholarship Opportunities at Google](https://edu.google.com/scholarships/) - Google's scholarship opportunities.
 * [Microsoft Scholarship Program](https://careers.microsoft.com/students/scholarships) - For students at US/Canada/Mexico only.
+* [Fellowships at Microsoft Research Asia](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/) - For students in mainland China, Hong Kong, Japan, Korea, Singapore, or Taiwan.
+* [IBM PhD Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) - For students who want to make their mark in promising and disruptive technologies.
 * [Thiel Fellowship for young innovators](http://thielfellowship.org) - Intended for students under 23yo and offers a total of $100,000 and guidance to drop out of school and pursue other work.
 * [The Facebook Fellowship Program](https://research.fb.com/programs/fellowship/) - Designed to encourage promising doctoral students who are engaged in areas related to computer science.
 * [NVIDIA Graduate Fellowships](http://research.nvidia.com/graduate-fellowships) - Fellowship for AI,ML students.

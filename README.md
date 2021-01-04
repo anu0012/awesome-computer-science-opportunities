@@ -54,6 +54,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Daily Coding Problem](https://www.dailycodingproblem.com/) - Get emailed a new coding problem every day
  * [Halite](https://halite.io/) - Create AI to face off against other people's AI. More specialized on AI
  * [Advent of Code](https://adventofcode.com/) - A yearly set of coding challenges that published with leaderboards
+ * [StopStalk](https://www.stopstalk.com/) - A tool to analyse and improve your Competitive Programming Progress
 
  ### Web Development
 
@@ -185,6 +186,7 @@ __Recon__
 * [UGC research fellowships in science for meritorious students](https://www.ugc.ac.in/oldpdf/xiplanpdf/meritorious%20students.pdf) - It is to promote quality research in University/Departments. 
 * [Junior research fellowship in engineering and technology](https://www.ugc.ac.in/oldpdf/xiplanpdf/JRFE-T.pdf) - It is for those who wish to pursue Ph.D. degree in engineering and technology.
 * [Swarnajayanti fellowships scheme](https://dst.gov.in/scientific-programmes/scientific-engineering-research/human-resource-development-and-nurturing-young-talent-swarnajayanti-fellowships-scheme) - For providing special assistance and support to talented young scientist.
+* [MLH Fellowship](https://fellowship.mlh.io/programs/explorer) - The MLH Fellowship helps software engineers level up
 
 ## Programming Events
 

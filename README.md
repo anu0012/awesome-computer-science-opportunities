@@ -18,6 +18,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  - [Programming Events](#programming-events)
  - [Hackathons](#hackathons)
  - [General Opportunities](#general-opportunities)
+ - [Projects](#projects)
 
 ## Learning Platform
 
@@ -223,3 +224,9 @@ __Recon__
 
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.
+
+## Projects
+
+[Back to Top](#contents)
+
+* [Community Driven Demo Projects](https://www.crio.do/projects/) - Find interesting mini projects for CSE and get started with an execution plan

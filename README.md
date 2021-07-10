@@ -74,6 +74,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [CodeCraft](https://codecraft.tv/) - Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
+ * [MiguelGrinberg](https://blog.miguelgrinberg.com/) - In-depth and beginner friendly tutorial on using Flask with an interesting sample project.
 
  ### Mobile Development
 

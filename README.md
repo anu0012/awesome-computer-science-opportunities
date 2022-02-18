@@ -194,8 +194,8 @@ __Recon__
 [Back to Top](#contents)
 
 * [Google Summer of Code](https://summerofcode.withgoogle.com) - A global program focused on bringing more student developers into open source software development.
-* [Google CodeJam](https://code.google.com/codejam/) - Google’s largest coding competition.
-* [Google Kickstart](https://code.google.com/codejam/kickstart/) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
+* [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam) - Google’s largest coding competition.
+* [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 * [Google Code-in](https://codein.withgoogle.com/) - A competition for pre-university students(13 to 17 years old) to introduce themselves to the world of open source by doing small tasks for various open source projects.
 * [ACM-ICPC](https://icpc.baylor.edu/) - The International Collegiate Programming Contest is an algorithmic programming contest for college students.

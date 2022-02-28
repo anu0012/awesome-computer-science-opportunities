@@ -83,6 +83,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Vogella](http://www.vogella.com/tutorials/android.html) - Tutorials about Android development.
  * [Android Hive](https://www.androidhive.info) - Android tutorials blog.
  * [iOS development](https://in.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Build your first iOS app with an Udacity course.
+ * [Cross Platform Development](https://www.flutter.dev/) - Flutter allows you to build apps for mobile, web, desktop, and embedded devices all from a single codebase. (Android & iOS)
 
  ### DevOps
 

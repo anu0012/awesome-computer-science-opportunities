@@ -30,7 +30,6 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [HackerEarth](http://hackerearth.com) - Solve code challenges to help companies find innovative solutions for their businesses.
  * [CodeChef](http://codechef.com) - Non-profit competitive programming platform.
  * [TopCoder](http://topcoder.com) - Participate in code challenges and help solve real world problems.
- * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
  * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
  * [Spoj](http://spoj.com) - Programming contests with online judging system.
  * [InterviewBit](https://www.interviewbit.com) - A platform to learn and practice coding interview questions.

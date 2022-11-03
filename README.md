@@ -95,6 +95,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [DataQuest](http://dataquest.io) - Learn data science with your browser.
  * [DataCamp](http://datacamp.com) - Learn data science online.
  * [DrivenData](https://www.drivendata.org/) - Participate in data science competitions and help organizations.
+ * [Scaler Topics](https://www.scaler.com/topics/data-science/) - Learn basic to advance of data science.
  * [Analytics Vidhya](http://analyticsvidhya.com) - Training and Q&A platform based around data science.
  * [fast.ai](http://course.fast.ai/) - Deep Learning with only prerequisite being general coding skills.
  * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.

@@ -128,6 +128,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
  * [CodeTriage](https://www.codetriage.com/) - Pick your favorite projects to receive a different issue in your inbox every day.
  * [Open Source Friday](https://opensourcefriday.com/) - Helps you find a project to contribute to.
+ * [Computer Science Roadmap](https://roadmap.sh/computer-science) - Complete guide to Computer Science.
 
 ## Infosec
 __How to start? - blogs__

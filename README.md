@@ -141,6 +141,13 @@ __Recon__
 * [Recon - by Sahil Ahamad](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21) - Blog post on reconnaissance processes for web applications security testing
 * [Recon - by Adrien](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d) - What tools I use for my recon during Bug Bounty
 
+## Cloud Computing 
+* [Google cloud ](https://www.google.com/search?q=google+arcade+qwiklabs&rlz=1C1ONGR_enIN982IN982&oq=&aqs=chrome.0.35i39i362l7j69i59i450.86105j0j1&sourceid=chrome&ie=UTF-8) - best platform to learn cloud computing 
+
+* [Microsoft Azure ] (https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing) - here you can learn about microsoft azure 
+
+* [amazone web services ] (https://aws.amazon.com/what-is-cloud-computing/) - we can learn about AWS
+
 ## MOOCs
 
 [Back to Top](#contents)

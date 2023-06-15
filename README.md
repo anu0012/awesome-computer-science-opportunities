@@ -227,6 +227,7 @@ __Recon__
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.
 
 ## Projects
+* [CodeCrafters](https://app.codecrafters.io/tracks?r=2ay) — Recreate popular technologies from scratch, in any language. e.g Build your own Git, Docker, Redis, etc.
 
 [Back to Top](#contents)
 

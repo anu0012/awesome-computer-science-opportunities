@@ -88,7 +88,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html) - Course dedicated to teach core software development and systems operation skills.
  * [Google IT Support Course](https://www.coursera.org/specializations/google-it-support) - Google course to prepare you for a job in IT support.
-
+ * [Devops Bootcamp by professional opensource contributor](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - This course covers and teach most of the DevOps topics and concepts briefly.
  ### Data Science
 
  * [Kaggle](http://kaggle.com) - Data science competitive platform.

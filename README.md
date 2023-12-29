@@ -61,6 +61,7 @@ An awesome list of events and fellowship opportunities for computer science stud
 
  * [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
  * [FreeCodeCamp](http://freecodecamp.com) - Coding tutorials and challenges.
+ * [Javascript Info](https://javascript.info/) - The Modern JavaScript Tutorial
  * [Thimble](https://thimble.mozilla.org/en-US/) - Free online code editor, web server, web browser & developer tools.
  * [NodeSchool](https://nodeschool.io) - Open source workshops that teach web software skills.
  * [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.

@@ -56,6 +56,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Halite](https://halite.io/) - Create AI to face off against other people's AI. More specialized on AI
  * [Advent of Code](https://adventofcode.com/) - A yearly set of coding challenges that published with leaderboards
  * [StopStalk](https://www.stopstalk.com/) - A tool to analyse and improve your Competitive Programming Progress
+ * [Quine](https://quine.sh/) - Competitive open source contributing
 
  ### Web Development
 

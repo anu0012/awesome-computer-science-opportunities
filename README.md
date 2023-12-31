@@ -118,6 +118,8 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
  * [Tutorials Point](http://tutorialspoint.com) - tutorials for technologies like web, mobile and many more.
  * [Introduction to Computer Science - CS101](https://classroom.udacity.com/courses/cs101/) - introduction to computer science in python language.
+ * [Computer Fundamentals tutorial](https://artoftesting.com/computer-fundamentals-tutorial) - Covers the basics of computer Fundamentals with eay explanation.
+
 
  ### Open Source
 

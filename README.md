@@ -1,5 +1,5 @@
 # awesome-computer-science-opportunities
-An awesome list of events and fellowship opportunities for computer science students
+<img src="https://emoji.discord.st/emojis/89b79a58-64ae-449f-a034-9226d6466d7d.gif" width="20px"> An awesome list of events and fellowship opportunities for computer science students <img src="https://emoji.discord.st/emojis/89b79a58-64ae-449f-a034-9226d6466d7d.gif" width="20px">
 
 ## Contents
 
@@ -19,34 +19,36 @@ An awesome list of events and fellowship opportunities for computer science stud
  - [Hackathons](#hackathons)
  - [General Opportunities](#general-opportunities)
  - [Projects](#projects)
+ - [Newsletters](#newsletters)
 
 ## Learning Platform
 
 [Back to Top](#contents)
 
- ### Competitive Programming
+ ### Competitive Programming 
 
- * [HackerRank](http://hackerrank.com) - Solve code challenges to prepare for programming interviews.
+* [HackerRank](http://hackerrank.com) - Solve code challenges to prepare for programming interviews.
  * [HackerEarth](http://hackerearth.com) - Solve code challenges to help companies find innovative solutions for their businesses.
- * [CodeChef](http://codechef.com) - Non-profit competitive programming platform.
- * [TopCoder](http://topcoder.com) - Participate in code challenges and help solve real world problems.
- * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
- * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
- * [Spoj](http://spoj.com) - Programming contests with online judging system.
- * [InterviewBit](https://www.interviewbit.com) - A platform to learn and practice coding interview questions.
- * [VisuAlgo](https://visualgo.net/en) - Visualizing data structures and algorithms through animation.
+*[CodeChef](http://codechef.com) - Non-profit competitive programming platform.
+* [TopCoder](http://topcoder.com) - Participate in code challenges and help solve real world problems.
+* [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
+* [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
+* [Spoj](http://spoj.com) - Programming contests with online judging system.
+*[InterviewBit](https://www.interviewbit.com) - A platform to learn and practice coding interview questions.
+* [VisuAlgo](https://visualgo.net/en) - Visualizing data structures and algorithms through animation.
  * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
  * [FireCode](https://www.firecode.io/) - An online coding interview preparation.
- * [CodeWars](https://www.codewars.com/) - Code challenges platform to level up your skills.
- * [CodinGame](https://www.codingame.com/) - Learn to code by playing games.
- * [CodeForces](http://codeforces.com/) - Online platform that hosts competitions and problem sets	
- * [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
+ * [CodeChef](https://www.codechef.com/)- A platform to help programmers make it big in the world of algorithms, computer programming, and programming contests.
+* [CodeWars](https://www.codewars.com/) - Code challenges platform to level up your skills.
+* [CodinGame](https://www.codingame.com/) - Learn to code by playing games.
+* [CodeForces](http://codeforces.com/) - Online platform that hosts competitions and problem sets	
+* [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) - Solutions to programming challenges, peer reviewed with community feedback.
  * [CodeFights](https://codefights.com) - Practice programming and land a job.
  * [UVa](https://uva.onlinejudge.org) - Programming contests with online judging system.
- * [Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests.
- * [Exercism](http://exercism.io/) - Solve programming challenges from your terminal.
+ *[Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford [Notebook](https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf) provides printable templates usable during online/on-site contests.
+* [Exercism](http://exercism.io/) - Solve programming challenges from your terminal.
  * [DailyCodingProblem](https://www.dailycodingproblem.com/) - Get exceptionally good at coding interviews by solving one problem every day.
- * [acmp.ru](http://acmp.ru) - Russian programming contests
+* [acmp.ru](http://acmp.ru) - Russian programming contests
  * [Timus Online Judge](http://acm.timus.ru/?locale=en) - Programming contests with online judging system.
  * [DMOJ: Modern Online Judge](https://dmoj.ca) - contest platform and archive of programming problems
  * [Rose Code](https://www.rosecode.net/) - Programming challenges with leaderboards and blog posts
@@ -58,7 +60,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [StopStalk](https://www.stopstalk.com/) - A tool to analyse and improve your Competitive Programming Progress
  * [Quine](https://quine.sh/) - Competitive open source contributing
 
- ### Web Development
+ ### Web Development 
 
  * [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
  * [FreeCodeCamp](http://freecodecamp.com) - Coding tutorials and challenges.
@@ -77,8 +79,10 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
  * [MiguelGrinberg](https://blog.miguelgrinberg.com/) - In-depth and beginner friendly tutorial on using Flask with an interesting sample project.
+ * [GeeksForGeeks](https://www.geeksforgeeks.org/)- A computer science portal for geeks, by geeks, created for developing an one-stop solution for all geeks
 
- ### Mobile Development
+ ### Mobile Development 
+
 
  * [Udacity Android Nanodegree](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) - Students can also apply for [scholarship](https://in.udacity.com/google-india-scholarships) given by Google.
  * [Android Developer Training](https://developers.google.com/training/android/) - Range of courses to help you build Android apps.
@@ -86,13 +90,12 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Android Hive](https://www.androidhive.info) - Android tutorials blog.
  * [iOS development](https://in.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Build your first iOS app with an Udacity course.
 
- ### DevOps
+ ### DevOps  
 
  * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html) - Course dedicated to teach core software development and systems operation skills.
  * [Google IT Support Course](https://www.coursera.org/specializations/google-it-support) - Google course to prepare you for a job in IT support.
 
- ### Data Science
-
+ ### Data Science  
  * [Kaggle](http://kaggle.com) - Data science competitive platform.
  * [DataQuest](http://dataquest.io) - Learn data science with your browser.
  * [DataCamp](http://datacamp.com) - Learn data science online.
@@ -103,8 +106,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [Data Science Central](https://www.datasciencecentral.com/) - the online resource for big data practitioners.
  * [KPMG Data Science Virtual Internship](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) - learn data science from a Big 4 accounting firm and how it's used in industry.
 
- ### Artificial Intelligence
-
+ ### Artificial Intelligence 
  * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - YouTube channel with tutorials about AI.
  * [Sentdex](https://www.youtube.com/user/sentdex) - YouTube channel with programming tutorials.
  * [Two Minute Papers](https://www.youtube.com/user/keeroyz) - Learn AI with 5 mins videos.
@@ -199,6 +201,7 @@ __Recon__
 * [Google Summer of Code](https://summerofcode.withgoogle.com) - A global program focused on bringing more student developers into open source software development.
 * [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam) - Google’s largest coding competition.
 * [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart) - Many online rounds to give students the opportunity to develop their coding skills and pursue a career at Google.
+* [Google Season of Docs](https://developers.google.com/season-of-docs)-Google Season of Docs is a program that is started in 2019 by Google where Technical writers write documentation for open source organizations and get paid by Google. 
 * [Google HashCode](https://hashcode.withgoogle.com) - Programming competition organized by Google for students and industry professionals across Europe, the Middle East and Africa.
 * [Google Code-in](https://codein.withgoogle.com/) - A competition for pre-university students(13 to 17 years old) to introduce themselves to the world of open source by doing small tasks for various open source projects.
 * [ACM-ICPC](https://icpc.baylor.edu/) - The International Collegiate Programming Contest is an algorithmic programming contest for college students.
@@ -227,6 +230,81 @@ __Recon__
 
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.
+* [HackerClub Tools](https://toolbox.hackclub.com/)- Tools for Hackerclub members and other Developers
+* [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.
+* [SmallDevTools](https://smalldev.tools/) - Smalldev.tools provide 20+ tools that helps developers with commonly performed tasks like Encoding/Decoding, Minifying, Test Dummy data set and a lot more.
+
+## Newsletters
+[Back to Top](#contents)
+
+#### JavaScript
+- [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
+- [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
+- [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
+- [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
+- [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+- [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
+- [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
+- [Best of JavaScript](https://weekly.bestofjs.org/). Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
+- [JavaScript Kicks](https://javascriptkicks.com/). Curated list of the top-rated articles from the community of JavaScript developers sent weekly.
+- [Bytes](https://bytes.dev/). Become a smarter JavaScript developer. Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free.
+- [Deno Weekly](https://denoweekly.com/). A weekly roundup of news, tutorials and projects from the land of Deno, the newest JavaScript runtime on the block.
+
+
+#### React
+
+- [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
+- [React Native Newsletter](http://reactnative.cc/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
+- [The React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
+- [React Digest](https://reactdigest.net/). A weekly newsletter for React developers with top 5 links. [Archive](https://reactdigest.net/digests).
+- [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
+- [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
+- [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
+- [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
+- [Tiny React](https://tinyreact.email). Top 3 React articles of the week in your inbox.
+- [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
+- [Next.js News](https://nextjsnews.com). Next.js focused newsletter sent every month. Contains reviews of upcoming features, best articles, tools, and plugins.
+
+
+### CSS
+
+- [CSS Weekly](https://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
+- [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
+- [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
+- [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
+
+### Design
+
+- [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
+- [Sidebar](https://sidebar.io). Five design-centric posts each day.
+- [Web Designer News](https://www.webdesignernews.com). Curated stories for designers.
+- [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
+- [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
+- [UI Movement](https://uimovement.com). Only the best UI design inspiration, right in your inbox.
+- [Designer News](https://www.designernews.co). Where the design community meets.
+- [Design Faves](https://www.designfaves.com/). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
+- [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
+- [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
+- [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
+- [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
+- [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
+- [Design Systems News](http://news.design.systems/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](http://news.design.systems/issues).
+- [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
+- [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
+- [Figmalion](https://figmalion.com). A biweekly curated newsletter about [Figma](https://www.figma.com/).
+#### Artificial Intelligence / Machine Learning / Big Data
+
+- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
+- [Data Eng Weekly](https://dataengweekly.com). Your weekly Data Engineering news (Formerly Hadoop Weekly). [Archive](https://dataengweekly.com/archive.html).
+- [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
+- [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
+- [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter. [Archive](https://www.getrevue.co/profile/wildml#archive).
+- [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
+- [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
+- [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+- [The ML Engineer Newsletter](https://ethical.institute/mle.html). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
 ## Projects
 
@@ -234,3 +312,5 @@ __Recon__
 
 * [CodeCrafters](https://app.codecrafters.io/tracks?r=2ay) — Recreate popular technologies from scratch, in any language. e.g Build your own Git, Docker, Redis, etc.
 * [Community Driven Demo Projects](https://www.crio.do/projects/) - Find interesting mini projects for CSE and get started with an execution plan
+* [Computer Science Projects By Geeksforgeeks.org](https://www.geeksforgeeks.org/computer-science-projects/) -A list of projects by GeeksForGeeks to get you into CSE coding
+* [Open source projects on GitLab](https://about.gitlab.com/solutions/open-source/projects/) -Hundreds of Open Source projects have already enrolled in the GitLab Open Source Program and more.

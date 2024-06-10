@@ -102,6 +102,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.
  * [Data Science Central](https://www.datasciencecentral.com/) - the online resource for big data practitioners.
  * [KPMG Data Science Virtual Internship](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) - learn data science from a Big 4 accounting firm and how it's used in industry.
+ * [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/) - Learn about the different data science roles available and their career paths.
 
  ### Artificial Intelligence
 

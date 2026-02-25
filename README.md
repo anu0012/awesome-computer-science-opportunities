@@ -225,6 +225,7 @@ __Recon__
 
 [Back to Top](#contents)
 
+* [PhD Internship Campaign](https://github.com/fl-sean03/phd-internship-campaign) - An open-source internship campaign toolkit for STEM PhD students (materials science, computational science, engineering). Includes 130+ companies researched across 12 sectors, a fit-scoring system, application templates, and AI prompts to run your own parallel research and application pipeline. Covers national labs, defense primes, FFRDCs, nuclear, hard tech startups, composites, semiconductor, and energy materials.
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.
 

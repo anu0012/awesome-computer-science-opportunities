@@ -226,6 +226,7 @@ __Recon__
 [Back to Top](#contents)
 
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian internships, co-ops, new grad, junior, and entry-level jobs for students and recent graduates.
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.
 
 ## Projects

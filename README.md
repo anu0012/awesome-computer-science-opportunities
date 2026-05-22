@@ -147,6 +147,7 @@ __Recon__
 
 [Back to Top](#contents)
 
+* [TutorialSearch](https://tutorialsearch.io/browse/science/computer-science) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Udacity](http://udacity.com) - Free and paid online classes.
 * [Coursera](http://coursera.org) - Courses from schools and universities like Stanford and Yale.
 * [Udemy](http://udemy.com) - Online learning and teaching platform.
